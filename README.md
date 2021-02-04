@@ -14,3 +14,4 @@ A procedural Maze Generator the uses the Hunt and Kill Algorithm
 - `walls` : a list of the `Wall` struct that contains the `Direction` enum a wall is facing and transform of a wall
 
 look at the Demo scene
+![demo maze](https://user-images.githubusercontent.com/36323674/106953929-143e5b00-6744-11eb-996c-261ab687d22f.png)
